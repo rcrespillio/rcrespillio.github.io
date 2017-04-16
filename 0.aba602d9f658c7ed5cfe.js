@@ -1,2 +1,0 @@
-webpackJsonp([0],{65:function(e,n,o){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t=o(67),l=(o.n(t),o(66)),c=angular.module("async-module",[]);c.controller("asyncController",l.a),n.default=c},66:function(e,n,o){"use strict";function t(e){"ngInject";e.debug("Hello from Lazy Loaded controller!")}t.$inject=["$log"],n.a=t},67:function(e,n){}});
-//# sourceMappingURL=0.aba602d9f658c7ed5cfe.js.map
